@@ -33,7 +33,7 @@ def call_chatgpt_api(question):
     })
     headers = {
         'Content-Type': 'application/json',
-        'Authorization': 'Bearer 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'
+        'Authorization': ''
     }
 
     response = requests.request("POST", url, headers=headers, data=payload)
