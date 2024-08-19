@@ -1,0 +1,2 @@
+Legendary Sword, A legendary sword capable of dealing devastating damage, 1000, 0, 10000
+Steel Armor, A set of sturdy steel armor, 0, 50, 5000

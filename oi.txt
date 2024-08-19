@@ -1,0 +1,2 @@
+Great Axe,A massive axe wielded by orcs,30,0,20
+Steel Shield,A sturdy shield made of steel,0,30,30

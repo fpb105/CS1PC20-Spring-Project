@@ -1,0 +1,2 @@
+Bone Club,A club made of bones,15,0,5
+Rusty Sword,An old, rusty sword,20,0,10

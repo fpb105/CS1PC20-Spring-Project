@@ -1,0 +1,3 @@
+SpiderWeb,Sticky webbing used by spiders,0,5,15
+PoisonVial,A vial containing deadly poison,0,0,30
+SmallGem,A small gemstone,possibly valuable,0,0,50

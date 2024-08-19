@@ -1,0 +1,2 @@
+Club,A crude club used by goblins,20,0,10
+Potion,A small health potion,-50,0,50

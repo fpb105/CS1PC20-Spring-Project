@@ -1,0 +1,3 @@
+Goblin,startRoom,gi,50
+Skeleton,Spider Nest,si,40
+Orc,Treasure Room,oi,70

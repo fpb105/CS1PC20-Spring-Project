@@ -1,0 +1,11 @@
+rooms
+startRoom,A dimly lit chamber with eerie shadows,dc
+Spider Nest,A web-filled nest with skittering noises,sc
+Treasure Room,A room filled with glittering treasures,tc
+connections
+startRoom,Spider Nest,east
+Spider Nest,Treasure Room,south
+Treasure Room,Dark Chamber,west
+Spider Nest, startRoom, west
+Treasure Room,Spider Nest,north
+Dark Chamber,Treasure Room,east

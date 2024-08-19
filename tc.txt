@@ -1,0 +1,4 @@
+GoldCoin,Shiny gold coin worth a small fortune,0,0,100
+JeweledCrown,Ornate crown adorned with jewels,0,10,500
+EnchantedSword,A sword imbued with magical properties,30,20,1000
+AncientScroll,A scroll containing ancient knowledge,0,0,200

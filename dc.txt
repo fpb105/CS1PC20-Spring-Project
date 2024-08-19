@@ -1,0 +1,2 @@
+Torch,A simple torch for illumination,0,0,10
+Dagger,A small dagger for close combat,15,0,20
